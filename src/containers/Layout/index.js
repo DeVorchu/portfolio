@@ -1,6 +1,6 @@
 import React from 'react'
 import { LayoutWrapper } from '../../styles/globals/layout.styled'
-import Header from '../Header'
+import Header from '../../components/Header'
 
 export default function index() {
     return (
