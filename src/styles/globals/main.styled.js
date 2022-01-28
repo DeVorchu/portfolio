@@ -12,6 +12,11 @@ export const AppStyleWrapper = createGlobalStyle`
         a{
             color: white;
             text-decoration: none;
+            transition: .3s;
+
+            &:hover{
+                color: ${({theme}) => theme._colorFont };
+            }
         }
     }
 

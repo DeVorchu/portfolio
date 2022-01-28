@@ -21,4 +21,5 @@ export const NavItems = styled.div`
     width: 50vw;
     height: 5vh;
     display: flex;
+    justify-content: flex-end;
 `
