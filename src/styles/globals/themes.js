@@ -1,10 +1,10 @@
 
 export const darkTheme = {
-    body: '#0E0609',
+    body: '#000200',
     color: '#FFFFFF',
-    _colorFont: '#852121',
-    _lightBox: '#180A14',
-    _lightBoxText: '#2C1726'
+    _colorFont: '#127edf',
+    _lightBox: '#05131f',
+    _lightBoxText: '#1c2d3d'
 }
 
 export const lightTheme = {
